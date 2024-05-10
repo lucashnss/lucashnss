@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 Curiosity: I've already implemented a MIPS processor in a course
 - 📫 How to reach me:
   
-  Email: hns.lucass@gmail
+  Email: hns.lucass@gmail.com
   
   Linkedin: https://www.linkedin.com/in/lucas-henrique-03b90829a/
