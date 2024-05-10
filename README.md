@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
 -  🌱 I’m currently learning Haskell, Java and Compilers
 - 👯 I’m looking to collaborate on new projects and learn
-- 💬 Ask me about ...
+- 🤔 Curiosity: I've already implemented a MIPS processor in a course
 - 📫 How to reach me:
   
   Email: hns.lucass@gmail
