@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on new projects and learn
 - 💬 Ask me about ...
 - 📫 How to reach me:
+  
   Email: hns.lucass@gmail
+  
   Linkedin: https://www.linkedin.com/in/lucas-henrique-03b90829a/
--->
