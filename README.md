@@ -8,8 +8,12 @@
  #
  
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
--  🌱 I’m currently learning Haskell, Java, Back-end, IA and Compilers
+- 🌱 I’m currently learning Haskell, Java, Back-end, IA and Compilers
 - 👯 I’m looking to collaborate on new projects and learn
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashnss&show_icons=true&theme=algolia) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashnss&layout=compact&langscount=7)
 
 <h2> Languages and technologies </h2>
 <div style="display: inline_block;"><br>
