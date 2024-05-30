@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on new projects and learn
 
 <h2> Languages </h2>
-<div style="display: inline_block"><br>
+<div style="display: inline_block; text-align: center;><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Lucas-Fastapi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Lucas-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
