@@ -9,7 +9,7 @@
  
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
 - 🌱 I’m currently learning Haskell, Java, Back-end, IA and Compilers
-- 👯 I’m looking to collaborate on new projects and learn
+- 👯 I’m looking to collaborate on new projects and develop with challenges
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashnss&show_icons=true&theme=algolia) 
