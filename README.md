@@ -1,5 +1,6 @@
+<div style="text-align: center;"> 
  ### Hi there ! I'm Lucas Henrique 👋 
-
+</div>
    
    <div> 
   <a href="https://www.linkedin.com/in/lucas-henrique-03b90829a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
