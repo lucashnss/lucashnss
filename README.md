@@ -4,7 +4,7 @@
     <a href = "mailto:hns.lucass@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.instagram.com/lucass_hns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    </div>
-      
+
  #
  
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
