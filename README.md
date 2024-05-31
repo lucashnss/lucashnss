@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning Haskell, Java, Back-end, IA and Compilers
 - 👯 I’m looking to collaborate on new projects and develop with challenges
 
-
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashnss&show_icons=true&theme=algolia) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashnss&layout=compact&langscount=7&theme=algolia)
 
