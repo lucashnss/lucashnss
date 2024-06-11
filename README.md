@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on new projects and develop with challenges
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashnss&show_icons=true&theme=algolia) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashnss&layout=compact&langscount=7&theme=algolia)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashnss&hide=Jupyter%20Notebook&layout=compact&langscount=7&theme=algolia)
 
 <h2> Languages and technologies </h2>
 <div style="display: inline_block;"><br>
