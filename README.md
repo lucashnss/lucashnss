@@ -9,7 +9,7 @@
  #
  
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
-- 🌱 I’m currently learning Java, Back-end, Front-end, Database, Graphis Processing and IA.
+- 🌱 I’m currently learning Java, Back-end, Front-end, Database, Graphics Processing and IA.
 - 👯 I’m looking to collaborate on new projects and develop with challenges
 
 <div align="center">
