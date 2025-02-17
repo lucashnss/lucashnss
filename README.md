@@ -9,7 +9,7 @@
  #
  
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
-- 🌱 I’m currently learning Back-end (Node.js), Front-end (React), Databases(SQL and MongoDB), Graphics Processing.
+- 🌱 I’m currently learning Back-end (Node.js), Front-end (React), Databases(SQL and MongoDB), Graphics Processing and Design Thinking.
 - 👷 I'm currently working with IA, LLMs and ML.
 - 👯 I’m looking to collaborate on new projects and develop with challenges
 
