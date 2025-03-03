@@ -5,9 +5,19 @@
     <a href="https://www.instagram.com/lucass_hns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/Luquinhas#0438 target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    </div>
+   
+### About Me
 
- #
- 
+#### Formation
+
+- Undergraduate Student in Computer Science at CIn-UFPE *(June 2022 - current)*
+
+#### Work
+
+- Prefeitura do Recife *(2024 - current)*
+  - Artificial Intelligence Intern
+
+#### Learning
 - 🔭 I’m currently working on developing new skills and learning a lot in CIN-UFPE computer science undergraduate
 - 🌱 I’m currently learning Back-end (Node.js), Front-end (React), Databases(SQL and MongoDB), Graphics Processing and Design Thinking.
 - 👷 I'm currently working with IA, LLMs and ML.
