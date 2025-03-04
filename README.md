@@ -19,18 +19,11 @@ Passionate about problem-solving, I found in technology and programming a way to
 I’m currently building a comprehensive foundation in **AI, Machine Learning, and Data Science**, focusing on NumPy, Matplotlib, Seaborn, Pandas, and PyTorch. 
 
 ## 💼 Experience
-- 🔍 **Undergraduate researcher**: Focused on **Long Short-Term Memory** and **Intrusion Detection Systems** using AI.
-- 🚗 **Cybersecurity in Automotive Networks**: Researching **Intrusion Detection with Machine Learning** in **Automotive Networks**.
-- 🌐 **Over-The-Air Updates**: Working on secure **Over-the-Air Software Updates** for vehicles.
+- 🤖 **Artificial Intelligence Intern** *(September 2024 - current)*: Working at **Prefeitura do Recife** with **Large Language Models (LLMs)** to build intelligent chatbots and customer service solutions.   
+- 🔍 **Undergraduate researcher** *(November 2023 - March 2024)*: Focused on **Long Short-Term Memory** and **Intrusion Detection Systems** using AI.
 
-## Formation
-
+## 🏫 Formation
 - Undergraduate Student in Computer Science at CIn-UFPE *(June 2022 - current)*
-
-## Work
-
-- Prefeitura do Recife *(2024 - current)*
-  - Artificial Intelligence Intern
 
 <h2> Languages and technologies </h2>
 <div align="center" style="display: inline_block;"><br>
