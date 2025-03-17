@@ -9,11 +9,11 @@
 Passionate about problem-solving, I found in technology and programming a way to create impactful solutions. Currently, I'm a Computer Science undergraduate (6th semester) at **Federal University of Pernambuco (UFPE)** and an AI intern at **Prefeitura do Recife**, working with Large Language Models (LLMs) to build intelligent chatbots and customer service solutions. 
 
 ## 🔧 My Skills
-- 💻 **Programming Languages**: Python, Java, JavaScript, C++, Haskell
+- 💻 **Programming Languages**: Python, Java, JavaScript, Haskell, C++
 - 🌐 **Web**: Node.js
-- 🧠 **LLM**: LlamaIndex, LangChain, Ollama
-- 📊 **Database**: SQL
-- 🐧 **Other**: Git, Linux
+- 🧠 **LLM**: LlamaIndex, LangChain, Ollama, Unsloth
+- 📊 **Database**: SQL, PL/SQL (Oracle) and Object-Relational SQL (Oracle)
+- 🐧 **Other**: Git, Linux, Excel 
 
 ## 🌱 Currently Learning
 I’m currently building a comprehensive foundation in **AI, Machine Learning, and Data Science**, focusing on NumPy, Matplotlib, Seaborn, Pandas, and PyTorch. 
