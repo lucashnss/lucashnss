@@ -12,7 +12,7 @@ Passionate about problem-solving, I found in technology and programming a way to
 - 💻 **Programming Languages**: Python, Java, JavaScript, Haskell, C++
 - 🌐 **Web**: Node.js
 - 🧠 **LLM**: LlamaIndex, LangChain, Ollama, Unsloth
-- 📊 **Database**: SQL, PL/SQL (Oracle) and Object-Relational SQL (Oracle)
+- 📊 **Database**: SQL, PL/SQL (Oracle), Object-Relational SQL (Oracle) and MongoDB
 - 🐧 **Other**: Git, Linux, Excel 
 
 ## 🌱 Currently Learning
