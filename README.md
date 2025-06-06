@@ -12,8 +12,8 @@ Passionate about problem-solving, I found in technology and programming a way to
 - 💻 **Programming Languages**: Python, Java, JavaScript, Haskell and C++
 - 🌐 **Web**: Node.js and React 
 - 🧠 **LLM**: LlamaIndex, LangChain, Ollama, Unsloth
-- 📊 **Database**: SQL, PL/SQL (Oracle), Object-Relational SQL (Oracle), MongoDB and Qdrant
-- 🐧 **Other**: Git, Linux, Excel and Figma 
+- 📊 **Data Science e Engineering**: Airflow, SQL, PL/SQL (Oracle), Object-Relational SQL (Oracle), MongoDB and Qdrant
+- 🐧 **Other**: Git, Docker, Linux, Excel and Figma 
 
 ## 🌱 Currently Learning
 I’m currently building a comprehensive foundation in **AI, Machine Learning, and Data Science**, focusing on NumPy, Matplotlib, Seaborn, Pandas, and PyTorch. 
