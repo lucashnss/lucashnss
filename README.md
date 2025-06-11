@@ -6,7 +6,7 @@
    </div>
    
 ## 🎓 About Me
-Passionate about problem-solving, I found in technology and programming a way to create impactful solutions. Currently, I'm a Computer Science undergraduate (6th semester) at **Federal University of Pernambuco (UFPE)** and an AI intern at **Prefeitura do Recife**, working with Large Language Models (LLMs) to build intelligent chatbots and customer service solutions. 
+Passionate about problem-solving, I found in technology and programming a way to create impactful solutions. Currently, I'm a Computer Science undergraduate (7th semester) at **Federal University of Pernambuco (UFPE)** and an AI intern at **Prefeitura do Recife**, working with Large Language Models (LLMs) to build intelligent chatbots and customer service solutions. 
 
 ## 🔧 My Skills
 - 💻 **Programming Languages**: Python, Java, JavaScript, Haskell and C++
